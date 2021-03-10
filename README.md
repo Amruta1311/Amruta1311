@@ -1,4 +1,4 @@
-#new
+MY CURIOSITY GETS ME TO EXPLORE THE DIVERSITY AROUND ME ⚡
 ---
 
 <div align="center">
