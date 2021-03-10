@@ -1,6 +1,6 @@
 # MY CURIOSITY HELPS ME EXPLORE THE DIVERSITY
 
-<img src="https://github.com/Amruta1311/new/blob/master/amu.gif" alt="Amruta Mulay">
+<img align="center" src="https://github.com/Amruta1311/new/blob/master/amu.gif" alt="Amruta Mulay">
 
 
 ---
