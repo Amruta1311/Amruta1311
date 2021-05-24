@@ -8,7 +8,6 @@ MY CURIOSITY GETS ME TO EXPLORE THE DIVERSITY AROUND ME ⚡
 ---
 <!-- 
 <a href="https://github.com/Amruta1311"> -->
-  ## Github Usage ~ Status
   ![Amruta's github stats](https://github-readme-stats.aemiej.vercel.app/api?username=Amruta1311&show_icons=true&hide_border=true&theme=radical&private=true)   
 <!-- <img align="center" alt="Amruta's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Amruta1311&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a> -->
 <a href="https://github.com/Amruta1311">
